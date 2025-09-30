@@ -19,7 +19,7 @@
   <a href="https://www.bblitzz.com" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-bblitzz.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://x.com/bblitzz" target="_blank">
+  <a href="https://x.com/BisonBlitz" target="_blank">
     <img alt="Follow on X" src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@BlitzBisonBBLITZZ" target="_blank">
