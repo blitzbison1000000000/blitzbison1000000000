@@ -37,8 +37,7 @@
 **Not listed yet.** **No mint. No taxes. No BS.** Liquidity will be locked at launch and a deflationary burn schedule is planned.
 
 ### Who is Lil Blitz?
-**Lil Blitz** is the horned mascot — the face of our short videos, promos, and memes.  
-He makes the story stick; the token gives the herd skin in the game.
+**Lil Blitz is our horned mascot — the face of our short videos, promos, and memes. He makes the story stick; the token gives the community real skin in the game.
 
 ---
 
