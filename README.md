@@ -6,15 +6,15 @@
   <img src="https://raw.githubusercontent.com/blitzbison1000000000/blitz-bison-assets/refs/heads/main/LilBlitz_02.png" alt="Lil Blitz" height="88" />
 </p>
 
-<h1 align="center">BBLITZZ — Token & Mascot</h1>
+<h1 align="center">💥 BBLITZZ — The Meme-Powered Movement on Solana</h1>
 
 <p align="center">
-  <em>Blitz Bison = the community token • Lil Blitz = the mascot who drives the story</em>
+  <em>The Bison is the token symbol • The community is the power • Lil Blitz is the mascot</em>
 </p>
 
 <br />
 
-<!-- === 4 BUTTONS (Website + X + YouTube + TikTok) === -->
+<!-- === SOCIAL BUTTONS === -->
 <p align="center">
   <a href="https://www.bblitzz.com" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-bblitzz.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
@@ -22,35 +22,40 @@
   <a href="https://x.com/BisonBlitz" target="_blank">
     <img alt="Follow on X" src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@BlitzBisonBBLITZZ" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
   <a href="https://www.tiktok.com/@bisonblitz" target="_blank">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
+  <a href="https://t.me/BlitzBisonBBLITZZCommunity" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### What is BBLITZZ?
-**BBLITZZ** is a community-driven token on **Solana** built for memes, momentum, and fun.  
-**Not listed yet.** **No mint. No taxes. No BS.** Liquidity will be locked at launch and a deflationary burn schedule is planned.
-
-### Who is Lil Blitz?
-**Lil Blitz is our horned mascot — the face of our short videos, promos, and memes.
-He makes the story stick; the token gives the community real skin in the game.
+### ⚡ About BBLITZZ
+- **Network:** Solana  
+- **Launch:** 100% fair via [Pump.fun](https://pump.fun)  
+- **Supply:** 1,000,000,000 BBLITZZ  
+- **No presale. No taxes. No insiders.**  
+- Built for creativity, memes, and open community culture.
 
 ---
 
-### Now
-- Building fast, clean pages for **bblitzz.com**
-- Dropping weekly **shorts** with Lil Blitz
-- Keeping things lightweight: semantic HTML/CSS + minimal JS
+### 🌀 Lil Blitz
+Lil Blitz is the face and voice of **BBLITZZ** — the mascot behind our shorts, skits, and meme drops.  
+He’s pure digital energy: chaotic, funny, and unstoppable.  
+The **Bison** is the token symbol.  
+The **community** is the power.  
+**Lil Blitz** is where the fun begins.
 
-<br />
+---
 
-<p align="center">
-  <sub>© BBLITZZ — Built with horns 🐃</sub>
-</p>
+### 🔗 Official Links
+- 🌐 Website → [bblitzz.com](https://www.bblitzz.com)  
+- 🐦 X (Twitter) → [@BisonBlitz](https://x.com/BisonBlitz)  
+- 💬 Telegram → [Community Chat](https://t.me/BlitzBisonBBLITZZCommunity)  
+- 🎨 Meme Creator Kit → [Download Here](https://www.bblitzz.com/files/BBLITZZ_Meme_Creator__Kit.zip)
 
+---
 
+<p align="center"><em>“Born from memes. Fueled by chaos. United by creativity.”</em></p>
